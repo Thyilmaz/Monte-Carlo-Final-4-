@@ -14,7 +14,7 @@ Bu proje, büyük bir veri seti içerisindeki belirli bir koşulu sağlayan elem
 
 ## 🚀 Algoritma Mantığı
 
-Monte Carlo algoritmaları, belirli bir zaman kısıtı altında (sabit $k$ iterasyonu) en iyi sonucu bulmaya çalışır. Las Vegas algoritmalarının aksine çalışma süresi garantidir ($O(k)$), ancak sonucun doğruluğu olasılıksaldır.
+Monte Carlo algoritmaları, belirli bir zaman kısıtı altında (sabit $k$ iterasyonu) en iyi sonucu bulmaya çalışır. Las Vegas algoritmalarının aksine çalışma süresi garantidir ($O(k)$), ancak sonucun doğruluğu olasılıksaldır. 
 
 
 
