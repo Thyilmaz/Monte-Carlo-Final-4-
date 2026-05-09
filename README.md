@@ -24,10 +24,3 @@ $$P(error) = (1 - p)^k$$
 
 Bu projede $p \approx 0.142$ ve $k = 30$ için beklenen hata oranı **~%1.01**'dir.
 
-## 🛠️ Kurulum ve Çalıştırma
-
-Kodun çalışması için bilgisayarınızda Python ve `numpy` kütüphanesinin kurulu olması gerekmektedir.
-
-1. **Gerekli kütüphaneyi yükleyin:**
-   ```bash
-   pip install numpy
